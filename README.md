@@ -1,12 +1,12 @@
 # Hi 👋 I'm Liam Wilbur!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=0.05&duration=2000&pause=700&width=435&lines=Welcome+to+my+profile!;I'm+Liam+-+a+current+CS+student+at+Stanford.;I+am+ambitious%2C+creative%2C++and+collaborative.;And+eager+to+contribute+to+meaningful+change.;For+fun%2C+I+love+listening+to+and+playing+music.;Explore+my+work+and+make+yourself+at+home!)](https://git.io/typing-svg)
----
+
+## My Work
+### [🌐 **Portfolio**](https://liam-wilbur.github.io)
+
 ## Contact me!
 
-
-### 🌐 <a href="https://liam-wilbur.github.io" target="_blank" rel="noopener noreferrer"><strong>Portfolio</strong></a>  
-<br>
 <a href="https://www.instagram.com/lwilbs_" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:40px;">
   <img margin-right:40px; src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="36" height="36">
 </a><a href="https://www.linkedin.com/in/liam-wilbur-1b2222236" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
