@@ -58,7 +58,7 @@
       <img src="tracks/dancing-with-my-eyes-closed.jpg" alt="Dancing with Your Eyes Closed cover" width="60" height="60"/>
     </td>
     <td style="vertical-align:middle;">
-      <strong>Dancing with your Eyes Closed</strong> – Jane Remover
+      <strong>Dancing with Your Eyes Closed</strong> – Jane Remover
     </td>
   </tr>
 
@@ -67,7 +67,7 @@
       <img src="tracks/loop-it-and-leave-it.jpg" alt="loop and it leave it cover" width="60" height="60"/>
     </td>
     <td style="vertical-align:middle;">
-      <strong>loop and it leave it</strong> – JPEGMAFIA
+      <strong>loop it and leave it</strong> – JPEGMAFIA
     </td>
   </tr>
 </table>
