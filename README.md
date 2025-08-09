@@ -1,27 +1,19 @@
 # Hi 👋 I'm Liam Wilbur!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=0.05&duration=2000&pause=200&width=435&lines=Welcome+to+my+profile!;I'm+Liam+-+a+current+CS+student+at+Stanford.;I+am+ambitious%2C+creative%2C++and+collaborative.;And+eager+to+contribute+to+meaningful+change.;For+fun%2C+I+love+listening+to+and+playing+music.;Explore+my+work+and+make+yourself+at+home!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=0.05&duration=2000&pause=700&width=435&lines=Welcome+to+my+profile!;I'm+Liam+-+a+current+CS+student+at+Stanford.;I+am+ambitious%2C+creative%2C++and+collaborative.;And+eager+to+contribute+to+meaningful+change.;For+fun%2C+I+love+listening+to+and+playing+music.;Explore+my+work+and+make+yourself+at+home!)](https://git.io/typing-svg)
 ---
-
 ## Contact me!
-<div style="margin-left:12px; font-size:32px;">
-  <div style="display:flex; align-items:center; margin-bottom:6px;">
-    <span style="margin-right:8px; font-size:30px; display:inline-block; width:30px; height:30px; line-height:30px; text-align:center;">🌐</span>
-    <a href="https://liam-wilbur.github.io">Portfolio</a>
-  </div>
-  <div style="display:flex; align-items:center; margin-bottom:6px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
-       alt="Instagram" height="30" width="30" style="margin-right:8px;"/> 
-  <a href="https://www.instagram.com/lwilbs_" style="display:flex; align-items:center; height:30px;">
-    Instagram
-  </a>
-</div>
-  <div style="display:flex; align-items:center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
-         alt="LinkedIn" height="30" width="30" style="margin-right:8px;"/> 
-    <a href="https://www.linkedin.com/in/liam-wilbur-1b2222236">LinkedIn</a>
-  </div>
-</div>
+
+
+### 🌐 <a href="https://liam-wilbur.github.io" target="_blank" rel="noopener noreferrer"><strong>Portfolio</strong></a>  
+<br>
+<a href="https://www.instagram.com/lwilbs_" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:40px;">
+  <img margin-right:40px; src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="36" height="36">
+</a><a href="https://www.linkedin.com/in/liam-wilbur-1b2222236" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="36" height="36">
+</a>
+
+<br>
 
 ---
 
@@ -47,11 +39,39 @@
 ---
 
 
-| Top Tracks |
-|---|
-| <img src="tracks/monday.jpg" alt="Monday cover" width="60"/> **Monday** - Quadeca<br><sub></sub> |
-| <img src="tracks/dancing-with-your-eyes-closed.jpg" alt="Dancing with your Eyes Closed cover" width="60"/> **Dancing with your Eyes Closed** - Jane Remover<br><sub></sub> |
-| <img src="tracks/loop-and-it-leave-it.jpg" alt="loop and it leave it cover" width="60"/> **loop and it leave it** - Jpegmafia<br><sub></sub> |
+<table>
+  <tr>
+    <th colspan="2">Top Tracks</th>
+  </tr>
+
+  <tr>
+    <td style="width:70px; vertical-align:middle;">
+      <img src="tracks/monday.jpg" alt="Monday cover" width="60" height="60"/>
+    </td>
+    <td style="vertical-align:middle;">
+      <strong>Monday</strong> – Quadeca
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:70px; vertical-align:middle;">
+      <img src="tracks/dancing-with-my-eyes-closed.jpg" alt="Dancing with Your Eyes Closed cover" width="60" height="60"/>
+    </td>
+    <td style="vertical-align:middle;">
+      <strong>Dancing with your Eyes Closed</strong> – Jane Remover
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:70px; vertical-align:middle;">
+      <img src="tracks/loop-it-and-leave-it.jpg" alt="loop and it leave it cover" width="60" height="60"/>
+    </td>
+    <td style="vertical-align:middle;">
+      <strong>loop and it leave it</strong> – JPEGMAFIA
+    </td>
+  </tr>
+</table>
 
 
+---
 _Thanks for stopping by ✨_
