@@ -1,6 +1,6 @@
 # Hi 👋 I'm Liam Wilbur!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=0.05&duration=2000&pause=700&width=435&lines=Welcome+to+my+profile!;I'm+Liam+-+a+current+CS+student+at+Stanford.;I+am+ambitious%2C+creative%2C++and+collaborative.;And+eager+to+contribute+to+meaningful+change.;For+fun%2C+I+love+listening+to+and+playing+music.;Explore+my+work+and+make+yourself+at+home!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=0.05&duration=2000&pause=700&width=435&lines=Welcome+to+my+profile!;I'm+Liam+-+a+current+CS+student+at+Stanford.;I+am+ambitious%2C+creative%2C++and+collaborative.;And+eager+to+contribute+to+meaningful+change.;For+fun%2C+I+love+listening+to+and+producing+music.;Explore+my+work+and+make+yourself+at+home!)](https://git.io/typing-svg)
 
 ## My Work
 ### [🌐 **Portfolio**](https://liam-wilbur.github.io)
